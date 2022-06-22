@@ -3,3 +3,5 @@ new line
 add new content
 experiment with amend
 something special
+How are you?
+All mighty
